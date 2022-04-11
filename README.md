@@ -66,10 +66,7 @@ New components may be contributed via pull request to the main component reposit
 - [x] Design review and approval
 - [x] Developer peer review
 
-## Primary maintainer(s)
 
-- Ian Whitcomb(ian.whitcomb@kyndryl.com)
-- Dennis Dolliver(dennis.dolliver@kyndryl.com)
 
 ## Build Sass Document
 ```
